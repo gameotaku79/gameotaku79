@@ -25,8 +25,11 @@ Soy presentador y codirector del podcast **Pixel Perfect Videojuegos**.
 Desde 2020 hablamos de actualidad del videojuego con enfoque también histórico y retro, acompañado de música poco habitual: electrónica, rock, indie y temas cañeros presentes en videojuegos.
 
 📺 YouTube: https://www.youtube.com/@elpixelpodcast
-🎧 Spotify: https://open.spotify.com/show/08ZPrML09BOSF82HUebdUR
+
 🎙️ iVoox: https://go.ivoox.com/sq/1069834
+
+🎧 Spotify: https://open.spotify.com/show/08ZPrML09BOSF82HUebdUR
+
 
 
 ## 📌 Nota
