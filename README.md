@@ -4,11 +4,11 @@ Me gusta trastear con hardware, retro y soluciones técnicas poco convencionales
 
 ## 🔧 Proyectos destacados
 
-### 🔫 Guncon3 Windows Driver
+### 🔫 [Guncon3 Windows Driver](https://github.com/TU-USER/Guncon3Windows)
 
 Driver funcional para Guncon3 en Windows (único conocido actualmente).
 
-### 🏰 La Abadía del Crimen – Standalone
+### 🏰 [La Abadía del Crimen – Standalone](https://github.com/TU-USER/AbadiaDelCrimen-Standalone)
 
 Versión moderna del remake en Java:
 
