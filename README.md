@@ -10,7 +10,7 @@ Driver funcional para Guncon3 en Windows (único conocido actualmente).
 
 ### 🏰 [La Abadía del Crimen – Standalone](https://github.com/gameotaku79/AbadiaDelCrimen-Standalone)
 
-Versión moderna del remake en Java:
+Versión moderna para Windows del remake en Java:
 
 * Sin navegador
 * Soporte mando Xbox
